@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey.svg" alt="Platform">
 </p>
 
-```A fast, professional web enumeration tool written in Rust for security professionals and penetration testers.```
-Lightweight, cross-platform Python tool to quickly find CTF-style flags (`PREFIX{...}`) on filesystems — ideal for HackTheBox, TryHackMe, picoCTF, and local labs.
+```Lightweight, cross-platform Python tool to quickly find CTF-style flags (`PREFIX{...}`) on filesystems — ideal for HackTheBox, TryHackMe, picoCTF, and local labs.```
 
 ## Highlights
 - Fast, multi-threaded scanning (configurable workers)  
